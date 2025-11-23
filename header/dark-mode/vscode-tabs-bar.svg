@@ -7,7 +7,7 @@
     <!-- tile filler pattern that spans the entire view width -->
     <!-- allows repeating the 1px tile until the end of the view width -->
     <pattern id="tileFiller" width="100%" height="36">
-      <image width="100%" height="36"
+      <image width="100%" height="36"  preserveAspectRatio="none"
              href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLSBDcmVhdGVkIHdpdGggSW5rc2NhcGUgKGh0dHA6Ly93d3cuaW5rc2NhcGUub3JnLykgLS0+Cjxzdmcgd2lkdGg9IjEiIGhlaWdodD0iMzYiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIC4yNjQ1OCA5LjUyNSIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBpZD0iZmlsbGVyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtNDcuNjc5IC05LjUyNSkiPjxyZWN0IGlkPSJib3JkZXIiIHRyYW5zZm9ybT0ic2NhbGUoMSwtMSkiIHg9IjQ3LjY3OSIgeT0iLTE5LjA1IiB3aWR0aD0iLjI2NDUxIiBoZWlnaHQ9IjkuNTI1IiByeD0iMS42ODQ5ZS04IiByeT0iMS42ODQ5ZS04IiBzdHlsZT0iZmlsbDojMmIyYjJiO3BhaW50LW9yZGVyOnN0cm9rZSBmaWxsIG1hcmtlcnMiLz48cmVjdCBpZD0iYmFja2dyb3VuZCIgeD0iNDcuNjc5IiB5PSI5Ljc4OTYiIHdpZHRoPSIuMjY0NTgiIGhlaWdodD0iOC45OTU4IiByeD0iNi4zNzA0ZS04IiByeT0iLjE4NDQ2IiBzdHlsZT0iZmlsbDojMTgxODE4O3BhaW50LW9yZGVyOnN0cm9rZSBmaWxsIG1hcmtlcnMiLz48L2c+PC9zdmc+Cg==" />
     </pattern>
   </defs>
