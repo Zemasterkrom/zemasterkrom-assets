@@ -123,3 +123,22 @@ BSD-3-Clause — https://opensource.org/license/bsd-3-clause — https://wiki.op
 **License | Guidelines**:
 - Original: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/deed.en — https://github.com/microsoft/vscode-codicons/tree/6ca213f9f9a825e1feeddde95d48bf89c3eb9e9c/LICENSE
 - Modified & Prepared: CC BY 4.0 — [licenses/CC-BY/CC-BY-4.0](licenses/CC-BY/CC-BY-4.0)
+
+# Animations
+
+**Image**: animations/dark-mode/profile-description.svg  
+**Modified**: no  
+**Author**: 
+- Original: Zemasterkrom
+- Modified \[Original\]: Zemasterkrom
+
+This SVG includes the Courier Prime font (Base64 embedded) created by Alan Dague-Greene: https://github.com/quoteunquoteapps/CourierPrime/tree/7fd585a2dd4c1612c79b3308e300923d1c13df93.  
+The Courier Prime font is licensed under the SIL Open Font License 1.1: https://opensource.org/licenses/OFL-1.1 ([licenses/OFL-1.1/CourierPrime/OFL-1.1](licenses/OFL-1.1/CourierPrime/OFL-1.1))
+
+**Source**:  
+- Original: [animations/dark-mode/profile-description.svg](animations/dark-mode/profile-description.svg)
+- Modified \[Original\]: [animations/dark-mode/profile-description.svg](animations/dark-mode/profile-description.svg)
+
+**License | Guidelines**:
+- Original \[Retrieved\]: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt — [licenses/CC/CC0-1.0](licenses/CC/CC0-1.0)
+- Original \[Retrieved\]: CC0 1.0 Universal — [licenses/CC/CC0-1.0](licenses/CC/CC0-1.0)
