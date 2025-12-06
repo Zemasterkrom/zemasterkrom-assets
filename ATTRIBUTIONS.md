@@ -85,7 +85,7 @@ BSD-3-Clause — https://opensource.org/license/bsd-3-clause — https://wiki.op
 - Modified \[Original\]: Zemasterkrom  
 
 **Source:** 
-- Original: https://github.com/PowerShell/PowerShell/blob/ee902a649e0b803b3db4619f7eeeadea5e60d0e6/assets/ps_black_128.svg   
+- Original: https://github.com/devicons/devicon/blob/91870fcc4113f40580083d2c1881b275325e38e0/icons/powershell/powershell-plain.svg  
 - Modified \[Retrieved\]: [logos/dark-mode/powershell.svg](logos/dark-mode/powershell.svg)  
 
 **License | Guidelines**:  
@@ -117,7 +117,7 @@ BSD-3-Clause — https://opensource.org/license/bsd-3-clause — https://wiki.op
 - Modified & Prepared: Zemasterkrom  
 
 **Source**:  
-- Original: https://github.com/microsoft/vscode-codicons/tree/6ca213f9f9a825e1feeddde95d48bf89c3eb9e9c/src/icons  
+- Original: https://github.com/microsoft/vscode-codicons/tree/6ca213f9f9a825e1feeddde95d48bf89c3eb9e9c/src/icons ([preview.svg](https://github.com/microsoft/vscode-codicons/blob/6ca213f9f9a825e1feeddde95d48bf89c3eb9e9c/src/icons/preview.svg), [go-to-file.svg](https://github.com/microsoft/vscode-codicons/blob/6ca213f9f9a825e1feeddde95d48bf89c3eb9e9c/src/icons/go-to-file.svg), [split-horizontal.svg](https://github.com/microsoft/vscode-codicons/blob/6ca213f9f9a825e1feeddde95d48bf89c3eb9e9c/src/icons/split-horizontal.svg), [ellipsis.svg](https://github.com/microsoft/vscode-codicons/blob/6ca213f9f9a825e1feeddde95d48bf89c3eb9e9c/src/icons/ellipsis.svg))
 - Modified & Prepared: [header/**](header/)  
 
 **License | Guidelines**:
@@ -140,5 +140,5 @@ The Courier Prime font is licensed under the SIL Open Font License 1.1: https://
 - Modified \[Original\]: [animations/dark-mode/profile-description.svg](animations/dark-mode/profile-description.svg)
 
 **License | Guidelines**:
-- Original \[Retrieved\]: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt — [licenses/CC/CC0-1.0](licenses/CC/CC0-1.0)
-- Original \[Retrieved\]: CC0 1.0 Universal — [licenses/CC/CC0-1.0](licenses/CC/CC0-1.0)
+- Original: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt — [licenses/CC/CC0-1.0](licenses/CC/CC0-1.0)
+- Modified \[Original\]: CC0 1.0 Universal — [licenses/CC/CC0-1.0](licenses/CC/CC0-1.0)
