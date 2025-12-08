@@ -111,7 +111,7 @@ BSD-3-Clause — https://opensource.org/license/bsd-3-clause — https://wiki.op
 # Header
 
 **Image**: for each image in the `header` folder  
-**Modified**: yes (to prepare each `vscode-tabs-bar.svg` image for `README.md` rendering)  
+**Modified**: yes (to prepare each `vscode-workspace-bar.svg` image for `README.md` rendering)  
 **Author**: 
 - Original: Microsoft Corporation  
 - Modified & Prepared: Zemasterkrom  
