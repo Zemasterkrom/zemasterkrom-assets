@@ -1,8 +1,15 @@
 <!-- VS Code workspace bar : responsive 3-slice scaling (dark theme) -->
 <svg xmlns="http://www.w3.org/2000/svg"
   xmlns:xlink="http://www.w3.org/1999/xlink"
-  version="1.1"
-  width="100%">
+  version="1.1">
+
+  <!-- To avoid distortions or "stretching", each <image> is placed inside its own <svg> container.
+  This allows each <svg> to have a distinct viewport separate from the root <svg> and to clearly
+  define intrinsic dimensions of the individual images, which would not be possible with the root
+  <svg>. -->
+
+  <!-- Each <image> scales to fill its enclosing <svg> viewport by using width="100%" and
+  height="100%". -->
 
   <!-- Fluid filler (middle, stretchable): first layer / slice -->
   <!-- Expands horizontally to fill available width (100% = full width of the SVG image) -->
@@ -14,8 +21,8 @@
   </svg>
 
   <!-- Preview tab (left, fixed): second layer / slice -->
-  <!-- Aligned to the left (x=0) using an inner SVG with a dedicated viewport and
-     xMin[minimum = left]YMid -->
+  <!-- Aligned to the left (x=0) using an inner SVG with a dedicated viewport (separated from the
+  root viewport) and xMin[minimum = left]YMid -->
   <!-- vscode-preview-tab.svg -->
   <svg xmlns="http://www.w3.org/2000/svg" id="preview-tab-dark" class="preview-tab"
     viewBox="0 0 164 36" preserveAspectRatio="xMinYMid meet">
@@ -24,8 +31,8 @@
   </svg>
 
   <!-- Editor actions (right, fixed): third layer / slice -->
-  <!-- Aligned to the right (x=100%) without overflow using an inner SVG with
-     a dedicated viewport and xMax[maximum = right]YMid -->
+  <!-- Aligned to the right (x=100%) without overflow using an inner SVG with a dedicated viewport
+  (separated from the root viewport) and xMax[maximum = right]YMid -->
   <!-- vscode-editor-actions.svg -->
   <svg xmlns="http://www.w3.org/2000/svg" id="editor-actions-dark" class="editor-actions"
     viewBox="0 0 90 36" preserveAspectRatio="xMaxYMid meet">
