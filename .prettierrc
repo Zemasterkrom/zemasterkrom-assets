@@ -1,0 +1,21 @@
+{
+  "singleQuote": true,
+  "printWidth": 144,
+  "overrides": [
+    {
+      "files": "*.svg",
+      "options": {
+        "parser": "html"
+      }
+    },
+    {
+      "files": "*.md",
+      "options": {
+        "proseWrap": "preserve",
+        "tabWidth": 2,
+        "printWidth": 176
+      }
+    }
+  ],
+  "bracketSameLine": true
+}

@@ -1,5 +1,5 @@
-NOTICE — Assets & Trademarks
-----------------------------
+## NOTICE — Assets & Trademarks
+
 This repository is a convenience collection of assets files used as references for [my personal README repository](https://github.com/Zemasterkrom/zemasterkrom).
 **I do not own** any of the assets contained here. Each asset is the trademark and/or
 copyrighted artwork of its respective owner.
